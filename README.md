@@ -21,4 +21,6 @@ If the temperature is 25C and greater the "Hot" LED turns on.
 
 Temperature is displayed in degree Celsius and degree Fahrenheit on the Front Panel.
 
+The "Stop" button stops the program.
+
 When one LED turns on, the others turn off.
