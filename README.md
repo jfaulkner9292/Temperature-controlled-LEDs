@@ -12,6 +12,7 @@ LabVIEW project to light up different colored LEDs depending on the temperature.
 8. Enter the PWM pin for the cold LED, the room temperature LED, and the hot LED
 
 **Usage**
+
 Once everything is wired correctly, click the "Run" button in LabVIEW
 If the temperature is 20C or below, the "Cold" LED turns on. 
 If the temperature is between 21C and 24C, the "Room temperature" LED turns on.
