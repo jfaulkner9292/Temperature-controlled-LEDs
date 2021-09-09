@@ -22,12 +22,12 @@ LabVIEW project to light up different colored LEDs depending on the temperature.
 
 **Usage**
 
-Once everything is wired correctly, click the "Run" button in LabVIEW
+Once everything is wired correctly, click the "Run" button in LabVIEW.
 If the temperature is 20C or below, the "Cold" LED turns on. 
 If the temperature is between 21C and 24C, the "Room temperature" LED turns on.
-If the temperature is 25C and greater the "Hot" LED turns on.
+If the temperature is 25C and greater, the "Hot" LED turns on.
 
-Temperature is displayed in degree Celsius and degree Fahrenheit on the Front Panel.
+Temperature is displayed in degrees Celsius and degrees Fahrenheit on the Front Panel.
 
 The "Stop" button stops the program and displays the temperature at the time of stopping.
 
