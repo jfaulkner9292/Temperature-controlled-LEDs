@@ -32,3 +32,7 @@ Temperature is displayed in degree Celsius and degree Fahrenheit on the Front Pa
 The "Stop" button stops the program and displays the temperature at the time of stopping.
 
 When one LED turns on, the others turn off.
+
+**Code**
+
+![Image of Block Diagram](https://github.com/jfaulkner9292/Temperature-controlled-LEDs/blob/main/Temperature%20Controlled%20LEDs%20Block%20Diagram.PNG?raw=true)
