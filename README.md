@@ -16,7 +16,7 @@ LabVIEW project to light up different colored LEDs depending on the temperature.
 
 8. In the LabVIEW program, select the COM port used by the Arduino in the "Serial Port" dropdown
 9. Enter the analog pin the TMP36 is connected to in the "Analog Channel" box
-10. Enter the PWM pin for the cold LED, the room temperature LED, and the hot LED
+10. Enter the PWM pin for the "Cold LED", the "Room temperature LED", and the "Hot LED"
 
    ![Image of TMP36 wiring](https://github.com/jfaulkner9292/Temperature-controlled-LEDs/blob/main/Temperature%20Controlled%20LEDs%20Front%20Panel.PNG?raw=true)
 
