@@ -6,6 +6,9 @@ LabVIEW project to light up different colored LEDs depending on the temperature.
 2. Connect ground from the Arduino to the negative power rail on the breadboard
 3. Wire three different colored LEDs to digital PWM connectors on the Arduino using a breadboard. The PWM wire will be the input for the LED. 
    The ground for the LED should have a 220K resister. (note which LED is in which PWM connector)
+   
+   ![Image of LED wiring](https://github.com/jfaulkner9292/Temperature-controlled-LEDs/blob/main/TMP36%20wiring.jpg?raw=true)
+   
 5. Wire a TMP36 sensor into the breadboard, giving the left pin power and the right pin ground (the front is the flat side with the text) 
 6. Wire the data wire (middle pin on the TMP36) to an analog port on the Arduino (note which analog port was used)
 7. In the LabVIEW program, select the COM port used by the Arduino in the "Serial Port" dropdown
